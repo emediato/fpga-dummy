@@ -1,3 +1,19 @@
+https://github.com/OFS/opae-sdk/tree/master/samples/hello_afu/hw
+https://stitt-hub.com/vhdl-and-systemverilog-tutorials/
+https://stitt-hub.com/design-the-circuit-then-write-the-code/
+https://stitt-hub.com/timing-optimization-tutorial/
+
+https://www.youtube.com/watch?v=E5sQu90UeII
+https://www.youtube.com/watch?v=9Ld9Sr_JE9o
+
+https://www.mathworks.com/help/overview/fpga-asic-and-soc-development.html?s_tid=hc_product_group_bc
+https://www.youtube.com/watch?v=JDgvBZbnfPw&list=PLn8PRpmsu08pqegLB5CqfgZCtuK5UKIrx&index=2
+
+dual 3-phase inverters for dc motors driven via pwm sine commutation
+
+https://www.youtube.com/watch?v=E5sQu90UeII
+https://github.com/ARC-Lab-UF/intel-training-modules/tree/master/timing/examples/adder_3input
+
 https://github.com/ARC-Lab-UF/intel-training-modules/tree/master/timing
 https://www.mathworks.com/help/hdlverifier/ref/vsim.html
 https://stitt-hub.com/timing-optimization-tutorial/
