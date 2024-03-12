@@ -1,3 +1,6 @@
+https://github.com/ARC-Lab-UF/intel-training-modules/tree/master/timing
+
+
 ## Timing of the FPGA logic (Static timing)
 
 https://eclipse.umbc.edu/robucci/cmpeRSD/Lectures/Lecture13__TimingAnalysis/
