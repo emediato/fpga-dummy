@@ -1,4 +1,13 @@
 https://github.com/ARC-Lab-UF/intel-training-modules/tree/master/timing
+https://www.mathworks.com/help/hdlverifier/ref/vsim.html
+https://stitt-hub.com/timing-optimization-tutorial/
+
+
+https://www.youtube.com/watch?v=_rEisLZZIjI
+
+https://github.com/ARC-Lab-UF/intel-training-modules?tab=readme-ov-file#devcloud-instructions
+https://github.com/ARC-Lab-UF/vhdl-tutorial/blob/main/combinational/alu.vhd
+https://github.com/ARC-Lab-UF/intel-training-modules/tree/master/RTL/examples/dma_loopback
 
 
 ## Timing of the FPGA logic (Static timing)
