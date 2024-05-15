@@ -1,3 +1,8 @@
+https://es.aliexpress.com/item/1005005376336207.html?spm=a2g0o.productlist.main.31.277cKWV9KWV9M8&algo_pvid=7cb64951-5532-4a2c-b23d-45350eb6053c&algo_exp_id=7cb64951-5532-4a2c-b23d-45350eb6053c-15&pdp_npi=4%40dis%21BRL%21218.82%21207.88%21%21%21292.58%21277.95%21%402103247417157855678595506e85fa%2112000032800314957%21sea%21BR%210%21AB&curPageLogUid=Ng6i6T2K9n8B&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+https://www.sparkfun.com/products/16526
+
+
 https://github.com/OFS/opae-sdk/tree/master/samples/hello_afu/hw
 https://stitt-hub.com/vhdl-and-systemverilog-tutorials/
 https://stitt-hub.com/design-the-circuit-then-write-the-code/
